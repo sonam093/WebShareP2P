@@ -210,7 +210,7 @@ WebShareP2P/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/sonam093/WebShareP2P.git
+git clone https://github.com/sonam093/WebShareP2P
 
 cd WebShareP2P
 ```
