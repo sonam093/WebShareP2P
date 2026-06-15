@@ -8,9 +8,9 @@ A lightweight, decentralized peer-to-peer file sharing web application built wit
 
 ## Live Demo
 
-**Frontend:** https://p2p-webshare.vercel.app
+**Frontend:** https://web-share-p2-p-beta.vercel.app/
 
-**Signaling Server:** https://p2p-webshare-backend.onrender.com
+**Signaling Server:** https://websharep2p-backend.onrender.com
 
 ---
 
